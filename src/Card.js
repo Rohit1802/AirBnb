@@ -14,6 +14,7 @@ function Card() {
           </div>
           <p>Life Lessons with Katie Zaferes</p>
           <p><span className='bold'>From $136</span> / person</p>
+          <p>Hello World</p>
       </div>
   )
 }
