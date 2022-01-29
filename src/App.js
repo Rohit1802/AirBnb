@@ -1,6 +1,14 @@
+import Hero from "./Hero";
+import Navbar from "./Navbar";
+import Card from "./Card";
+
 function App() {
   return (
-    <h1>App component</h1>
+    <div>
+      <Navbar />
+      {/* <Hero/> */}
+      <Card/>
+    </div>
   );
 }
 
